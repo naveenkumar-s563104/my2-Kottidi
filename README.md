@@ -8,7 +8,7 @@ It's a popular vacation spot with sprawling beaches.<br>  It's frequented by the
 # This that I like to do 
 1. Long walks in the mornings
 2. Go for parasailing with frieds 
-3. Have some good ice-cream
+3. Have some good tan
 
 # Food that I love to eat
 
