@@ -4,4 +4,4 @@ but that's not in Computer Science. I write poems which is
 creative writing.  I always prefer to have a regular routine.
 And, I love morning walks.
 
-![Myphoto](C:\Users\s563104\Documents\my2-Kottidi)
+![Myphoto is updated here:](C:\Users\s563104\Documents\my2-Kottidi)
