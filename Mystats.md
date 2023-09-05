@@ -30,3 +30,9 @@ And, I love morning walks.
 > “Scientists have become the bearers of the torch of discovery in our quest for knowledge.”
 > – *Stephen Hawking*
 
+# Code Snippet
+```
+var str = " a b    c d e   f g   ";
+var newStr = str.trim();
+// "a b    c d e   f g"
+```
