@@ -24,3 +24,8 @@ And, I love morning walks.
 >
 > “Science without religion is lame, religion without science is blind.” 
 > ― Albert Einstein
+
+> Second Quote
+
+> “Scientists have become the bearers of the torch of discovery in our quest for knowledge.”
+> – Stephen Hawking
