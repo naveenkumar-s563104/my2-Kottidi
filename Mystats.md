@@ -28,7 +28,7 @@ And, I love morning walks.
 > Second Quote
 >
 > “Scientists have become the bearers of the torch of discovery in our quest for knowledge.”
->> – * Stephen Hawking *
+>> – *Stephen Hawking*
 
 # Code snippets
 ```
