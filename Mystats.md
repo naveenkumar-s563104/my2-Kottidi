@@ -36,4 +36,4 @@ var str = " a b    c d e   f g   ";
 var newStr = str.trim();
 // "a b    c d e   f g"
 ```
-![Link to the Snippet is given here:](https://css-tricks.com/snippets/javascript/strip-whitespace-from-string/)
+[Link to the Snippet is given here:](https://css-tricks.com/snippets/javascript/strip-whitespace-from-string/)
