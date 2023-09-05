@@ -41,9 +41,8 @@ It's a popular vacation spot with sprawling beaches.<br>  It's frequented by the
 
 # Code Snippet
 ```
-var str = " a b    c d e   f g   ";
-var newStr = str.trim();
-// "a b    c d e   f g"
+Redirect 301 /oldpage.html http://www.yoursite.com/newpage.html
+Redirect 301 /oldpage2.html http://www.yoursite.com/folder/
 ```
 [Link to the Snippet is given here:](https://css-tricks.com/snippets/javascript/strip-whitespace-from-string/)
 
