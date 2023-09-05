@@ -23,7 +23,7 @@ And, I love morning walks.
 > First Quote
 >
 > “Science without religion is lame, religion without science is blind.” 
->> ― * Albert Einstein *
+>> ― *Albert Einstein*
 
 > Second Quote
 >
