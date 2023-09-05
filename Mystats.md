@@ -18,3 +18,9 @@ And, I love morning walks.
 |Foot ball        | Good for overall strength   | one hour     |
 |Cricket          | Team work                   | two hours    |
 |Tennis           | Increases focus and stamina | two hours    |
+
+# Pithy Quotes
+> First Quote
+>
+> “Science without religion is lame, religion without science is blind.” 
+> ― Albert Einstein
