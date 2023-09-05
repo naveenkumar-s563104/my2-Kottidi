@@ -48,6 +48,6 @@ Redirect 301 /oldpage.html http://www.yoursite.com/newpage.html
 Redirect 301 /oldpage2.html http://www.yoursite.com/folder/
 ```
 
-[Link to code snippet stackoverflow](https://stackoverflow.com/questions/19265940/htaccess-301-redirect-passing-along-old-url-to-new-url)
+[Link to code snippet stackoverflow](https://stackoverflow.com/questions/19265940/htaccess-301-redirect-passing-along-old-url-to-new-url)</br>
 [Link to the Snippet is given here:](https://css-tricks.com/snippets/htaccess/301-redirects/)
 
