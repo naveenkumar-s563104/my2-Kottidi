@@ -29,3 +29,9 @@ And, I love morning walks.
 >
 > “Scientists have become the bearers of the torch of discovery in our quest for knowledge.”
 >> – Stephen Hawking
+
+# Code snippets
+```
+String a = String.valueOf(2);   //integer to numeric string
+int i = Integer.parseInt(a); //numeric string to an int
+```
