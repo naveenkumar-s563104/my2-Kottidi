@@ -14,7 +14,7 @@ And, I love morning walks.
 # what is this going to be ?
 |Name of the Sport|Why do you need to play this?|How much time?|
 | -----------------|--------------------|----------------------|
-|Basket ball      |   Can grow tall             |  one hour    |
+|Basket ball      |   Can grow tall             | one hour     |
 |Foot ball        | Good for overall strength   | one hour     |
 |Cricket          | Team work                   | two hours    |
-
+|Tennis           | Increases focus and stamina | two hours    |
