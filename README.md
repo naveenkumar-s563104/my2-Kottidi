@@ -38,6 +38,7 @@ It's a popular vacation spot with sprawling beaches.<br>  It's frequented by the
 >
 > “Scientists have become the bearers of the torch of discovery in our quest for knowledge.”
 > – *Stephen Hawking*
+---------------------------
 
 # Code Snippet
 
