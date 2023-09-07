@@ -3,7 +3,8 @@
 # KOTTIDI, NAVEEN KUMAR
 ***************
 ##### Goa, India
-It's a popular vacation spot with sprawling beaches.<br>  It's frequented by the youngsters a lot,<br>partly due the **beauty** and the **beer.**
+It's a popular vacation spot with sprawling beaches.<br>  It's frequented by the youngsters a lot,
+partly due the **beauty** and the **beer.**
 
 # Things that I like to do 
 1. Long walks in the mornings
@@ -21,6 +22,8 @@ It's a popular vacation spot with sprawling beaches.<br>  It's frequented by the
 
 ****************************
 # what is this going to be ?
+This table gives information about four important sports, the reasons
+why one should play them and for how much time.
 |Name of the Sport|Why do you need to play this?|How much time?|
 | -----------------|--------------------|----------------------|
 |Basket ball      |   Can grow tall             | one hour     |
