@@ -27,7 +27,7 @@ It's a popular vacation spot with sprawling beaches.<br>  It's frequented by the
 |Foot ball        | Good for overall strength   | one hour     |
 |Cricket          | Team work                   | two hours    |
 |Tennis           | Increases focus and stamina | two hours    |
-
+---------------------------
 # Pithy Quotes
 > First Quote
 >
